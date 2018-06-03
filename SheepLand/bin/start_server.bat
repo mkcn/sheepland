@@ -1,0 +1,1 @@
+java -jar sheepland.final.jar -s
